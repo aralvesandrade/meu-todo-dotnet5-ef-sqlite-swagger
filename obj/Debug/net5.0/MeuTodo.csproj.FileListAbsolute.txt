@@ -49,3 +49,8 @@
 /home/alexandre/labs/MeuTodo/obj/Debug/net5.0/ref/MeuTodo.dll
 /home/alexandre/labs/MeuTodo/obj/Debug/net5.0/MeuTodo.pdb
 /home/alexandre/labs/MeuTodo/obj/Debug/net5.0/MeuTodo.genruntimeconfig.cache
+/home/alexandre/labs/MeuTodo/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/home/alexandre/labs/MeuTodo/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/alexandre/labs/MeuTodo/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/alexandre/labs/MeuTodo/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/alexandre/labs/MeuTodo/obj/Debug/net5.0/MeuTodo.MvcApplicationPartsAssemblyInfo.cs
